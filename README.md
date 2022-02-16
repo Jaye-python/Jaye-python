@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Jaye-python/Jaye-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Title:
 Python Django Developer and Data Scientist (5 years'+)
 
