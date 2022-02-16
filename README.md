@@ -18,6 +18,7 @@ I do model persistence for my machine learning algorithms using joblib
 I use Pandas, Numpy, BeautifulSoup, scikit-learn, Requests and more
 
 
+
 Fun Facts:
 
 I prefer Python Classes and Global variables to Closure functions
