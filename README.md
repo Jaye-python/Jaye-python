@@ -5,7 +5,7 @@ Python Django Developer and Data Scientist (5 years'+)
 
 Tech stack:
 
-I build back-end architecture using Python 3, Django, MySQL, PostgreSQL, sqlite, Django Rest Framework
+I build back-end architecture using Python 3, Django, MySQL, PostgreSQL, sqlite, Django Rest Framework, RabbitMQ (Message Broker), Celery (Task Queue), Redis (for caching), Docker (to build images and containers)
 
 I build front-end architecture using Bootstrap, HTML, CSS, JavaScript, jQuery, jQuery UI, Chartjs
 
