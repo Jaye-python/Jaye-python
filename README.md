@@ -43,12 +43,15 @@ Learning new technologies constantly
 
 ### Jokes
 1.  **Job Interview Question** : Why did you apply for this role?
+
     **Answer** : For God's sake, are you not the ones that advertised the vacancy? If you don't want me to apply just tell me and let me go!
 
 2.  **Job Interview Question** : Why should we pick you over other candidates?
+
     **Answer** : How the heck am I supposed to know? I don't have their CVs so I can't tell what makes me different from them!
     
 3.  **Job Interview Question** : What do you like about our company?
+
     **Answer** : Seriously, I don't know much about your company to like anything about it and I don't really care, I'm just here for the pay!
     
 
