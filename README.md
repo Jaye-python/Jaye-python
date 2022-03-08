@@ -1,39 +1,38 @@
 ### Hi there 👋
 
-Title:
+### Title:
 Python Django Developer and Data Scientist (5 years'+)
 
-Tech stack:
+### Tech stack:
 
-I build back-end architecture using Python 3, Django, MySQL, PostgreSQL, sqlite, Django Rest Framework, RabbitMQ (Message Broker), Celery (Task Queue), Redis (for caching), Docker (to build images and containers)
+1. I build back-end architecture using `Python 3`, `Django`, `MySQL`, `PostgreSQL`, `sqlite3`, `Django Rest Framework`, `RabbitMQ (Message Broker)`, `Celery (Task Queue)`, `Redis (for caching)`, `Docker (to build images and containers)`, `OpenAPI`
 
-I build front-end architecture using Bootstrap, HTML, CSS, JavaScript, jQuery, jQuery UI, Chartjs
+2. I build front-end architecture using `Bootstrap`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `jQuery UI`, `Chartjs`, `Swagger-UI`
 
-I build machine learning algorithms using DecisionTreeClassifier, RandomForestClassifier, LogisticRegression etc
+3. I build machine learning algorithms using `DecisionTreeClassifier`, `RandomForestClassifier`, `LogisticRegression` etc
 
-I build desktop applications using the Python tkinter library and package as an executable file
+4. I build desktop applications using the Python `tkinter` library and package as an executable file
 
-I do data preprocessing by removing outliers, removing duplicates, setting MiniMaxScaler, doing LabelEncoder, and identifying best features using SelectKBest
+5. I do data preprocessing by removing outliers, removing duplicates, setting `MiniMaxScaler`, doing `LabelEncoder`, and identifying best features using `SelectKBest`
 
-I do model persistence for my machine learning algorithms using joblib 
+6. I do model persistence for my machine learning algorithms using `joblib` and `sqlite3` 
 
-I use Pandas, Numpy, BeautifulSoup, scikit-learn, Requests and more
+7. I use `Pandas`, `Numpy`, `BeautifulSoup`, `scikit-learn`, `Requests` and more
 
-Links:
+
+### Portfolio Video Links:
 YouTube demo videos of sample projects: https://www.youtube.com/channel/UCpKCJ6eYmm3_qUAeHMRVJRQ
 
-LinkedIn:
+
+### LinkedIn:
 https://www.linkedin.com/in/ola-jayeola-43715743/
 
-Fun Facts:
 
-I prefer Python Classes and Global variables to Closure functions
+### Fun Facts:
 
-I prefer Django Class Based Views to Function Views
+I prefer `Django` Class Based Views to Function Views
 
-I prefer using Django Lazy query sets
-
-I use jquery async a lot
+I use `jquery` ajax a lot
 
 I prefer optimizing my database early on
 
