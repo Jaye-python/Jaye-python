@@ -13,7 +13,7 @@ Python Django Developer and Data Scientist (5 years'+)
 
 4. I build desktop applications using the Python `tkinter` library and package as an executable file
 
-5. I do data preprocessing by removing outliers, removing duplicates, setting `MiniMaxScaler`, doing `LabelEncoder`, and identifying best features using `SelectKBest`
+5. I do data preprocessing by removing outliers, removing duplicates, setting `MiniMaxScaler`, using `LabelEncoder`, and identifying best features using `SelectKBest`
 
 6. I do model persistence for my machine learning algorithms using `joblib` and `sqlite3` 
 
