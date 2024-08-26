@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Title:
-Python Django Developer (6 years'+)
+Python Developer | Devops Engineer (6 years'+)
 
 ### Tech stack:
 
