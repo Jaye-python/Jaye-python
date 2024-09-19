@@ -7,7 +7,7 @@ Python Developer | Devops Engineer (6 years'+)
 
 1. I build back-end architecture using `Python 3`, `Django`, `MySQL`, `PostgreSQL`, `sqlite3`, `Django Rest Framework`, `RabbitMQ (Message Broker)`, `Celery (Task Queue)`, `Redis (for caching)`, `Docker (to build images and containers)`, `OpenAPI`
 
-2. I build CICD pipleines using `Github Actions` and `Jenkins`
+2. I build CICD pipelines using `Github Actions` and `Jenkins`
 
 3. I create Infrastructure as code using `Terrafform` and `AWS Cloud Formation`
 
@@ -24,6 +24,7 @@ Python Developer | Devops Engineer (6 years'+)
 9. I do model persistence for my machine learning algorithms using `joblib` and `sqlite3` 
 
 10. I use `Pandas`, `Numpy`, `BeautifulSoup`, `scikit-learn`, `Requests` and more
+11. Other DevOps tools I use: `Docker`, `Kubernetes`, `Prometheus`, `Grafana`
 
 
 ### Portfolio Video Links:
