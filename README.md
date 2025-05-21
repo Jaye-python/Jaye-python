@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Title:
-Python Developer | Devops Engineer (6 years'+)
+Python Developer | AWS Certified AI Practitioner [(https://www.credly.com/badges/b8130ebc-bec3-4164-9376-2a5b13908883/public_url)]
 
 ### Tech stack:
 
